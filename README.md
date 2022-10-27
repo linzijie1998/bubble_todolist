@@ -1,0 +1,3 @@
+- static 静态文件
+- templates 模板文件
+- controller 控制路由执行函数
